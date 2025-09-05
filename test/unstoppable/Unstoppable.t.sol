@@ -92,7 +92,7 @@ contract UnstoppableChallenge is Test {
      */
     function test_unstoppable() public checkSolvedByPlayer {
 
-        //Exploit: direct token transfer breaks the share calculation in vault
+        ///Exploit: direct token transfer breaks the share calculation in vault
         token.transfer(address(vault), INITIAL_PLAYER_TOKEN_BALANCE);
     }
 
