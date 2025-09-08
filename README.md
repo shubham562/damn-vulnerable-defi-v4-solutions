@@ -1,5 +1,5 @@
 # Damn Vulnerable DeFi v4 – My Solutions
-This repo contains my personal solution for Damn Vulnerable Defi, implemented in Foundry and every challenge has a test file to wwrite you own solution and test it with forge test.
+This repo contains my personal solution for Damn Vulnerable Defi, implemented in Foundry and every challenge has a test file to write your own solution and test it with forge test.
 
 ## 🚀 How to Run
 - Install Foundry → https://book.getfoundry.sh/getting-started/installation
