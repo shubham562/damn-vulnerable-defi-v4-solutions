@@ -5,7 +5,7 @@ This repo contains my personal solution for Damn Vulnerable Defi v4, implemented
 - Install Foundry → https://book.getfoundry.sh/getting-started/installation
 - Install dependencies: forge install
 - Build: forge build
-- Run specific test: forge test --mp test/<testname>/<testfilename>.t.sol
+- Run specific test: `forge test --mp test/<test-name>/<testfilename>.t.sol`
 
 ## 📚 Progress
 - ✅ Challenge #1: Unstoppable  
